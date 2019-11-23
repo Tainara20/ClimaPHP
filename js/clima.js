@@ -2,7 +2,7 @@ function getClima() {
     $.ajax({
         method: 'get',
         crossDomain: true,
-        url: 'http://api.openweathermap.org/data/2.5/weather?id=3468879&appid=f12447cbfe551796eb378f4ccf3757de',
+        url: 'https://api.openweathermap.org/data/2.5/weather?id=3468879&appid=f12447cbfe551796eb378f4ccf3757de',
         dataType: 'json',
         success: function (data) {
             temperatura = data.main.temp - 273;
