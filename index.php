@@ -6,7 +6,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>TODO supply a title</title>
+        <title>Informações Climaticas da sua cidade</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -18,6 +18,37 @@ and open the template in the editor.
 
         <script src="js/clima.js"></script>
 
+                <!-- Tags Gerais -->
+        <meta NAME="DESCRIPTION" CONTENT="Site de infrmaçoes climaticas desenvilvida por Tainara Camargo"/>
+        <meta NAME="ABSTRACT" CONTENT="Fique por dentro do clima da sua região!"/>
+        <meta name="keywords" content="tempo em brusque, tempo para brusque, clima de hoje para brusque, previsão do clima para brusque, tempo minímo para brusque, tempo maximo para brusque, previsão da semana para brusque, Previsão do tempo para os próximos 15 dias em Brusque, Brusque, SC Previsão do Tempo,O Tempo em Brusque, Clima Brusque, Previsão do tempo mensal para Brusque, Linha do tempo em Brusque, "/>
+        <meta NAME="title" CONTENT="Site de infrmaçoes climaticas desenvilvida por Tainara Camargo" />
+        <meta NAME="identifier-url" content="https://tainara-clima-senai.herokuapp.com/" />
+        <meta NAME="author" content="Tainara Camargo" />
+        <meta NAME="ROBOTS" CONTENT="All" />
+        <meta NAME="RATING" CONTENT="general" />
+        <meta NAME="DISTRIBUTION" CONTENT="global" />
+        <meta NAME="LANGUAGE" CONTENT="pt-br" />
+        <meta name="content-language" content="portuguese" />
+        <meta name="doc-class" content="Completed" /> 
+        <meta name="reply-to" content="Taay7106@gmail.com"/>
+        
+                <!-- Tags Para rede social Facebook -->
+        <meta property="og:url" content="https://tainara-clima-senai.herokuapp.com/" />
+        <meta property="og:locale" content="pt_BR" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Site de infrmaçoes climaticas desenvilvida por Tainara Camargo" />
+        <meta property="og:title" content="Site de infrmaçoes climaticas desenvilvida por Tainara Camargo" />
+        <meta property="og:description" content="" />
+        <meta property="og:image" content="https://tainara-clima-senai.herokuapp.com/img/exemplos/pordosol.png" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="120" />
+        <meta property="fb:app_id" content="" />
+        
+                <!-- Tags Para rede social Twitter -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:description" content="Site de infrmaçoes climaticas desenvilvida por Tainara Camargo" />
+        <meta name="twitter:title" content="Site de infrmaçoes climaticas desenvilvida por Tainara Camargo" />
     </head>
     <body>
         <div class="row">
